@@ -78,7 +78,7 @@ Deploy applications
 
 Manage  cluster
 Pause Kubernetes without impacting deployed applications:
-# minikube pause
+#minikube pause
 
 Halt the cluster:
 #minikube stop
